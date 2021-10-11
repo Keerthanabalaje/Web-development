@@ -1,0 +1,24 @@
+# JQuery
+- JavaScript code           - document.queryselector("h1");
+- JQuery JavaScript library - $("h1");
+- CSS style                 - $("h1").css('color','purple');
+- add class                 - .addClass('css class name');
+- remove class              - .remove Class('css class name');
+- has class ( boolean )     - .hasClass('name of class')
+- text                      - .text('will change the text, doesn't care about html tag')
+- html                      - .html('change text with sensitive html tag');
+- image attribute           - $('img').attr('src', 'image.png'). 
+- link attribute            - $('a').attr('href', 'http://www.youtube.com')
+- before                    - $('header').before('<button>new</button>');
+- after                     - $('header').after('<button>new</button>');
+- prepend                   - $('header').prepend('<button>new</button>');
+- append                    - $('header').append('<button>new</button>');
+- fade                      
+   - Out                    - .fadeOut()
+   - In                     - .fadeIn()
+   - Toggle                 - .fadeToggle()
+- Slide 
+   - Up                     - .slideUp()
+   - down                   - .slideDown()
+   - Toggle                 - .slideToggle()
+- animate                   - .animate({opacity: 0.2})
