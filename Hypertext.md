@@ -29,7 +29,7 @@
 4. ls -l - long listing of files
 5. ls -r - list in reverse order
 6. ls -R - list including subdirectories
-7. ls -t - sort the content by modification time
+7. ls -t - sort the content by newest file
 8. ls -1 - one by one
 9. ls -d - list directories entries instead 0f their contents
 10. ls -u 
