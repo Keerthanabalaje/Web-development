@@ -21,5 +21,18 @@
 11. ctrl +a - to go starting of our command   
 12. ctrl +a - to go ending of our command 
 13. node - environment
-14. 
- 
+## Infosys basics
+### Listing
+1. ls - list all things
+2. - a - list all including hidden files (dot files)
+3. - i - list with inode number
+4. - l - long listing of files
+5. - r - list in reverse order
+6. - R - list including subdirectories
+7. - t - sort the content by modification time
+8. - 1 - one by one
+9. - d - list directories entries instead 0f their contents
+10. - u 
+    - to display last acces along with l
+    - to sort content of directory along with t
+11. -F - append with "/" like symbols before directory 
