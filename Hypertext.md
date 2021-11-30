@@ -24,15 +24,15 @@
 ## Infosys basics
 ### Listing
 1. ls - list all things
-2. - a - list all including hidden files (dot files)
-3. - i - list with inode number
-4. - l - long listing of files
-5. - r - list in reverse order
-6. - R - list including subdirectories
-7. - t - sort the content by modification time
-8. - 1 - one by one
-9. - d - list directories entries instead 0f their contents
-10. - u 
+2. ls -a - list all including hidden files (dot files)
+3. ls -i - list with inode number
+4. ls -l - long listing of files
+5. ls -r - list in reverse order
+6. ls -R - list including subdirectories
+7. ls -t - sort the content by modification time
+8. ls -1 - one by one
+9. ls -d - list directories entries instead 0f their contents
+10. ls -u 
     - to display last acces along with l
     - to sort content of directory along with t
-11. -F - append with "/" like symbols before directory 
+11. ls -F - append with "/" like symbols before directory 
