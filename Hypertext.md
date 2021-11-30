@@ -35,4 +35,8 @@
 10. ls -u 
     - to display last acces along with l
     - to sort content of directory along with t
-11. ls -F - append with "/" like symbols before directory 
+11. ls -F - append with "/" like symbols before directory
+    - / for directory
+    - * for executable files
+    - @ fro link files
+    - nothing for normal files 
