@@ -36,7 +36,7 @@
     - to display last acces along with l
     - to sort content of directory along with t
 11. ls -F - append with "/" like symbols before directory
-    - / for directory
-    - * for executable files
-    - @ fro link files
+    - "/" for directory
+    - "*" for executable files
+    - "@" fro link files
     - nothing for normal files 
