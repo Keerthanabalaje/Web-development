@@ -22,7 +22,7 @@
 12. ctrl +a - to go ending of our command 
 13. node - environment
 ## Infosys basics
-### Listing
+### LISTING
 1. ls - list all things
 2. ls -a - list all including hidden files (dot files)
 3. ls -i - list with inode number
@@ -40,3 +40,4 @@
     - "*" for executable files
     - "@" fro link files
     - nothing for normal files 
+### CALENDAR
