@@ -73,5 +73,16 @@
    - bc
    - 2*3
    - will give '6' output
-### 
+### TTY
+tty - terminal information
+### WHICH
+1. which mkdir - gives path information
+### TYPE
+1. type exit - shell builtin (gives whether it is a shell builtin or utility program)
+### CAT
+1. cat file2.txt file2.txt -> concatination of files
+2. cat -n file1.txt -> Put number for all including empty lines
+3. cat -b file1.txt -> Put number for only non-empty lines
+4. cat -s file1.txt -> suppress the repeated output
+###
 ###
