@@ -41,3 +41,15 @@
     - "@" fro link files
     - nothing for normal files 
 ### CALENDAR
+1. cal    - the present month calemdar
+2. cal -1 - the present month calemdar
+3. cal -3 - the previous, present & next month calemdar
+4. cal -y - whole year calendar
+5. cal -m - calendar monday as start week 
+6. cal -s -  calendar sunday as start week 
+7. cal -j - calendar displaying julian dates
+
+### DATES
+1. date    - predefined format
+2. date -d mm/d/2021 - specified date in predefined format
+3. date +"%c" - to display both date and time 
