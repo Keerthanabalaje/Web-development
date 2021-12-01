@@ -53,3 +53,13 @@
 1. date    - predefined format
 2. date -d mm/d/2021 - specified date in predefined format
 3. date +"%c" - to display both date and time 
+
+### WHO
+1. who      - To display name id time remote_hostname
+2. who -m   - To display all information of loged on user
+3. who am i - To display all information of loged on user
+###
+###
+###
+###
+###
