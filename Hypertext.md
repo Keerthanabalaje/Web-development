@@ -62,7 +62,11 @@
 1. uname -   will display Example: UNIX 
 2. uname -p - Proccessor type
 3. uname -o - operating system
-###
-###
+### ECHO
+1.echo "Hi keerthana developer"-> 'Hi keerthana developer' will be printed
+2. echo -e "Hi keerthana \ndeveloper" -> 'Hi keerthana' 1st line 'developer' 2nd line
+3. echo -E "Hi keerthana \ndeveloper" -> 'Hi keerthana \ndeveloper' [default]
+### PRINTF
+1. printf "%d %s" 10 keerthana -> '10 keerthana' will be printed 
 ###
 ###
