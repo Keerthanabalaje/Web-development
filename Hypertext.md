@@ -58,7 +58,10 @@
 1. who      - To display name id time remote_hostname
 2. who -m   - To display all information of loged on user
 3. who am i - To display all information of loged on user
-###
+### UNMAE 
+1. uname -   will display Example: UNIX 
+2. uname -p - Proccessor type
+3. uname -o - operating system
 ###
 ###
 ###
