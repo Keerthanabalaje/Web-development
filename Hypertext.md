@@ -68,5 +68,10 @@
 3. echo -E "Hi keerthana \ndeveloper" -> 'Hi keerthana \ndeveloper' [default]
 ### PRINTF
 1. printf "%d %s" 10 keerthana -> '10 keerthana' will be printed 
-###
+### BC 
+1. bc - arbitary calculator 
+   - bc
+   - 2*3
+   - will give '6' output
+### 
 ###
